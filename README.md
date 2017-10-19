@@ -1,6 +1,6 @@
 # Zendesk-Auto-Responder
 
-The Zendesk Auto Responder was created because my company had disabled the auto response feature in Zendesk, therefore I turned to automation. Our Gmail is connected to Zendesk in this case. I am fairly new to coding, so I'm sure there is a better way to write this, however, it works as intended. Any suggestions on how to improve it are welcome.
+The Zendesk Auto Responder was created because my company had disabled the auto response feature in Zendesk, therefore I turned to automation. In this case our Gmail is connected to Zendesk. I am fairly new to coding, so I'm sure there is a better way to write this, however, it works as intended. Any suggestions on how to improve it are welcome.
 
 ***************************************************************************************************************************************** 
   
