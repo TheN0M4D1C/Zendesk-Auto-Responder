@@ -1,6 +1,6 @@
 # Zendesk-Auto-Responder
 
-The Zendesk Auto Responder was created because my company had disabled the auto response feature in Zendesk, therefore I turned to automation. Our Gmail is connected to Zendesk in this case. I am fairly new to coding, so I'm sure there is a better way to write this, however, it works as intended in my case. Any suggestions on how to improve it are welcome.
+The Zendesk Auto Responder was created because my company had disabled the auto response feature in Zendesk, therefore I turned to automation. Our Gmail is connected to Zendesk in this case. I am fairly new to coding, so I'm sure there is a better way to write this, however, it works as intended. Any suggestions on how to improve it are welcome.
 
 ***************************************************************************************************************************************** 
   
@@ -12,7 +12,7 @@ The Zendesk Auto Responder was created because my company had disabled the auto 
   4. Then it will respond to the ticket using a pre-coded response, the subject from the parsed email, and the reply-to field.
   5. The code then loops every minute.
 
-Since the code is essentially logging into your email and responding it bypasses any permissions that would otherwise keep you from using Zendesks APIs.
+Since the code is logging into your email and responding it bypasses any permissions that would otherwise keep you from using Zendesks APIs.
 
 *****************************************************************************************************************************************
 CAUTION!
